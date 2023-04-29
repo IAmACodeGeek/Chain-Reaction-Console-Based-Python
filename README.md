@@ -1,4 +1,4 @@
-Chain Reaction (With UI)
+Chain Reaction (Console Based)
 
 Project by:
 	Vishal K
